@@ -13,36 +13,36 @@ of my technical and management skills. Experienced in
 working on various projects through remote collaboration.</h4>
 </br>
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-m-7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 💼 My Portfolio https://shivam-m-7.github.io 
+- 💼 My Portfolio https://abhishek-khanna.netlify.app/ 
 
-- 🤝 Group Project  [IndiaMart - Clone](https://github.com/AnupKamble/IndiaMart-Clone)
+- 🤝 Group Project  [BewKoof-Project - Clone](https://bewkoofclone.netlify.app/)
 
-- 🤝 Group Project  [asos - Clone](https://github.com/shivam-m-7/asos) 
+- 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/) 
 
 - 👨‍💻 Individual Project [Have'nt done any yet]()
 
-- 👨‍💻 I’m currently learning **MERN STACK**
+- 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
 
 - 📧 Ask me about **Backend**
 
-- ❓ How to reach me **shivammmishra7@gmail.com**
+- ❓ How to reach me **abhikhanna2710@gmail.com**
  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 
-- 📄 Resume [Resume](https://drive.google.com/file/d/1ZdvMmK1NpO-0FWocUAsZ4OKz9upmiW68/view?usp=sharing)
+- 📄 Resume [Resume]()
 
-- ⚡ Fun fact **I am Sarcastic!**
+- ⚡ Fun fact **I am Funny!**
 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shivam-mishra-sde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shivam-mishra-sde" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shivam-m-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivam-m-7" height="30" width="40" /></a>
-        <a href="https://twitter.com/ShivamM59787232?t=IVW4uIxLoBLRlIbdyWKwGQ&s=08" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="ShivamM59787232" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/abhishek-khanna-69159a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-khanna-69159a225/" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivam-m-7" height="30" width="40" /></a>
+        <a href="https://twitter.com/Abhishe21387274" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="Abhishek" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -63,9 +63,9 @@ working on various projects through remote collaboration.</h4>
 </p>
 
 🛠 Current Stats:
-<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=shivam-m-7&show_icons=true&locale=en&theme=tokyonight" alt="shivam-m-7" /></p>
+<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p>
 
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-m-7&show_icons=true&locale=en&theme=tokyonight" alt="shivam-m-7" /></p>
+<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p>
 
 <p><img align="center" width="90%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-m-7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivam-m-7" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivam-m-7" /></p>
