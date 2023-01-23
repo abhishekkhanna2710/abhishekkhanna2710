@@ -13,13 +13,12 @@ working on various projects through remote collaboration & willing to explore my
 <h3>My Motivation</h3> 
 <h4>I am very motivated and passionate towards my work and projects because i want to build one Battery Charging App which excites me more to do in future</h4>
 
-- 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-
+- 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER** </br>
 - 🌱 My Projects </br> </br> 
    [Zoom Car pro](https://zoomcarpro.netlify.app/)  </br>
    [Book My Show ](https://bookmyshowclone-9.netlify.app/)  </br>
