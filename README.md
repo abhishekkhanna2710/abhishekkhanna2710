@@ -18,7 +18,7 @@ working on various projects through remote collaboration & willing to explore my
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 
-- 🌱 My Projects </br> </br>
+- 🌱 My Projects </br> 
    [Zoom Car pro](https://zoomcarpro.netlify.app/)  </br>
    [Book My Show ](https://bookmyshowclone-9.netlify.app/)  </br>
    [BewKoof Project](https://bewkoofclone.netlify.app/) </br>
