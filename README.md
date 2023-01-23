@@ -45,7 +45,7 @@ working on various projects through remote collaboration & willing to explore my
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishek-khanna-69159a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-khanna-69159a225/" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivam-m-7" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://codesandbox.io/u/abhishekkhanna2710" alt="abhishek" height="30" width="40" /></a>
         <a href="https://twitter.com/Abhishe21387274" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="Abhishek" height="40" width="50" /></a>
 </p>
 
