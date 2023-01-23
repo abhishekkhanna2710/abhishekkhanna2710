@@ -18,14 +18,14 @@ working on various projects through remote collaboration & willing to explore my
 
 - 💼 My Portfolio https://abhishek-khanna.netlify.app/ 
 
-- 🌱 My Projects
-   [Zoom Car pro](https://zoomcarpro.netlify.app/) 
-   [Book My Show ](https://bookmyshowclone-9.netlify.app/) 
-   [BewKoof Project](https://bewkoofclone.netlify.app/)
+- 🌱 My Projects </br> </br>
+   [Zoom Car pro](https://zoomcarpro.netlify.app/)  </br>
+   [Book My Show ](https://bookmyshowclone-9.netlify.app/)  </br>
+   [BewKoof Project](https://bewkoofclone.netlify.app/) </br>
 
-- 🤝 Group Project  [BewKoof-Project - Clone](https://bewkoofclone.netlify.app/)
+<!-- - 🤝 Group Project  [BewKoof-Project - Clone](https://bewkoofclone.netlify.app/)
 
-- 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/) 
+- 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/)  -->
 
 - 👨‍💻 Individual Project [Have'nt done any yet]()
 
