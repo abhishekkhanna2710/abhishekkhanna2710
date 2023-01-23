@@ -9,13 +9,19 @@ HTML, CSS, JavaScript, and experienced in solving more than
 400+ Dsa problems. Looking forward to being a part of an
 organization that allows constant learning and development
 of my technical and management skills. Experienced in
-working on various projects through remote collaboration & willing to explore my skills</h4>
+working on various projects through remote collaboration & willing to explore my skills.</h4>
 </br>
+- 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - 💼 My Portfolio https://abhishek-khanna.netlify.app/ 
+
+- 🌱 My Projects
+   [Zoom Car pro](https://zoomcarpro.netlify.app/) 
+   [Book My Show ](https://bookmyshowclone-9.netlify.app/) 
+   [BewKoof Project](https://bewkoofclone.netlify.app/)
 
 - 🤝 Group Project  [BewKoof-Project - Clone](https://bewkoofclone.netlify.app/)
 
@@ -25,14 +31,11 @@ working on various projects through remote collaboration & willing to explore my
 
 - 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
 
-- 📧 Ask me about **Frontend**
-
 - ❓ How to reach me **abhikhanna2710@gmail.com**
  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/>
 
-- 📄 Resume [Resume](https://drive.google.com/file/d/19fsh4BFn3PfDe_5QIrXmYgCwBshllKk7/view?usp=share_link)
+- 📄 Resume [Resume](https://drive.google.com/file/d/1shXU-IH-X5Ij_D2QuOudpzm1j3DV6w3R/view?usp=share_link)
 
-- ⚡ Fun fact **I am Funny!**
 
 
 
