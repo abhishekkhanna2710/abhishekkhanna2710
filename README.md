@@ -9,7 +9,7 @@ HTML, CSS, JavaScript, and experienced in solving more than
 400+ Dsa problems. Looking forward to being a part of an
 organization that allows constant learning and development
 of my technical and management skills. Experienced in
-working on various projects through remote collaboration.</h4>
+working on various projects through remote collaboration & willing to explore my skills</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
