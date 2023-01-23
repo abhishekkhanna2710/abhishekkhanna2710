@@ -10,9 +10,9 @@ HTML, CSS, JavaScript, and experienced in solving more than
 organization that allows constant learning and development
 of my technical and management skills. Experienced in
 working on various projects through remote collaboration & willing to explore my skills.</h4>
-<h3>My Motivation</h3> </br>
-<h4>I am very motivated towards my work and project because i want to able to build one battery charging app which excites me to do more in future</h4>
-</br>
+<h3>My Motivation</h3> 
+<h4>I am very motivated and passionate towards my work and projects because i want to build one Battery Charging App which excites me more to do in future</h4>
+
 - 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
 </br>
 </br>
