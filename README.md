@@ -16,7 +16,7 @@ working on various projects through remote collaboration & willing to explore my
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-- 💼 My Portfolio https://abhishek-khanna.netlify.app/ 
+- 💼 My Portfolio https://abhishekkhanna.netlify.app/ 
 
 - 🌱 My Projects </br> </br>
    [Zoom Car pro](https://zoomcarpro.netlify.app/)  </br>
