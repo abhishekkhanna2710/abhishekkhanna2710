@@ -29,7 +29,7 @@ working on various projects through remote collaboration & willing to explore my
 
 - 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/)  -->
 
-- 👨‍💻 Individual Project [Have'nt done any yet]()
+- 👨‍💻 Individual Project [DashBoard (Work in progress)]()
 
 - 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
 
