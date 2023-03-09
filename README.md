@@ -29,7 +29,7 @@ working on various projects through remote collaboration & willing to explore my
 
 - 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/)  -->
 
-- 👨‍💻 Individual Project [DashBoard (Properto)] (https://propertodashboard.netlify.app/login)()
+- 👨‍💻 Individual Project [Properto (Dashboard)](https://propertodashboard.netlify.app/login)
 
 - 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
 
