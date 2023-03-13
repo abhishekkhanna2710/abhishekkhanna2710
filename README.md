@@ -3,7 +3,7 @@ I'm Abhishek Khanna <img width="45px" src="https://camo.githubusercontent.com/d3
 alt="😎"/>
 </h1>
 
-<h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
+<h3 align="left">Aspiring Full Stack Web Developer at Masai School</h3>
 <h4>Software professional with expertise in MERN technology,
 HTML, CSS, JavaScript, and experienced in solving more than
 400+ Dsa problems. Looking forward to being a part of an
