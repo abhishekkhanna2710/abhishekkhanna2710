@@ -77,6 +77,5 @@ working on various projects through remote collaboration & willing to explore my
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p>
 
 <p><img align="center" width="90%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivam-m-7" /></p>
-   
+src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivam-m-7" /></p>   
   
