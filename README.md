@@ -31,7 +31,7 @@ working on various projects through remote collaboration & willing to explore my
 
 - 👨‍💻 Individual Project :  [Properto (Dashboard)](https://propertodashboard.netlify.app/)
 
-- 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER**
+- 👨‍💻 I’m currently looking opportunity for **MERN STACK WEB DEVELOPER**
 
 - ❓ How to reach me **abhikhanna2710@gmail.com**
 <!--  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/> -->
