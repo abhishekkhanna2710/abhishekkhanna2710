@@ -13,7 +13,7 @@ alt="😎"/>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 400px></picture>
 
 # 💫About Me:
-- 👨‍💻 I’m currently learning **MERN STACK WEB DEVELOPER** </br>
+- 👨‍💻 I’m currently looking opportunity for **MERN STACK WEB DEVELOPERR** </br>
 - 🌱 My Projects </br> </br> 
    [Zoom Car pro](https://zoomcarpro.netlify.app/)  </br>
    [Book My Show ](https://bookmyshowclone-9.netlify.app/)  </br>
