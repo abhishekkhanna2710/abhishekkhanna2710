@@ -73,5 +73,3 @@ alt="😎"/>
 
 <p><img align="center" width="90%"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivam-m-7" /></p>   
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sid8808&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
