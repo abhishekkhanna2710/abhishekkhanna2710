@@ -6,14 +6,14 @@ alt="😎"/>
 <h3 align="left">Aspiring Full Stack Web Developer at Masai School</h3>
 <h4>A Web Designer turned Full Stack Web Developer with problem solving mindset, passionate Engineer and keen to learn new technologies and frameworks. Experienced in working on various projects through remote collaboration and looking forward to challenge my skills and contribute to the organization.</h4>
 <h3>My Motivation</h3> 
-<h4>I am very motivated and passionate towards my work and projects because i want to build one Battery Charging App which excites me more to do in future</h4>
+<h4>I am very motivated and passionate towards my work and projects because I want to build one Battery Charging App which excites me to do more in future</h4>
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-m-7&label=Profile%20views&color=0e75b6&style=flat" alt="Abhishek" /> </p>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 360px></picture>
 
 # 💫About Me:
-- 👨‍💻 I'm currently looking for an opportunity as  **MERN STACK WEB DEVELOPER** </br>
+- 👨‍💻 I'm looking for an opportunity as **MERN STACK WEB DEVELOPER** </br>
 - 🌱 My Projects </br> </br> 
    [Zoom Car pro](https://zoomcarpro.netlify.app/)  </br>
    [Book My Show ](https://bookmyshowclone-9.netlify.app/)  </br>
