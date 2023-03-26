@@ -13,7 +13,7 @@ alt="😎"/>
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 400px></picture>
 
 # 💫About Me:
-- 👨‍💻 I’m currently looking opportunity for **MERN STACK WEB DEVELOPERR** </br>
+- 👨‍💻 I’m currently looking opportunity for **MERN STACK WEB DEVELOPER** </br>
 - 🌱 My Projects </br> </br> 
    [Zoom Car pro](https://zoomcarpro.netlify.app/)  </br>
    [Book My Show ](https://bookmyshowclone-9.netlify.app/)  </br>
@@ -24,8 +24,6 @@ alt="😎"/>
 - 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/)  -->
 
 - 👨‍💻 Individual Project :  [Properto (Dashboard)](https://propertodashboard.netlify.app/)
-
-- 👨‍💻 I’m currently looking opportunity for **MERN STACK WEB DEVELOPER**
 
 - ❓ How to reach me **abhikhanna2710@gmail.com**
 <!--  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/> -->
