@@ -4,12 +4,7 @@ alt="😎"/>
 </h1> 
 
 <h3 align="left">Aspiring Full Stack Web Developer at Masai School</h3>
-<h4>Software professional with expertise in MERN technology,
-HTML, CSS, JavaScript, and experienced in solving more than
-400+ Dsa problems. Looking forward to being a part of an
-organization that allows constant learning and development
-of my technical and management skills. Experienced in
-working on various projects through remote collaboration & willing to explore my skills.</h4>
+<h4>A Web Designer turned Full Stack Web Developer with problem solving mindset, passionate Engineer and keen to learn new technologies and frameworks. Experienced in working on various projects through remote collaboration and looking forward to challenge my skills and contribute to the organization.</h4>
 <h3>My Motivation</h3> 
 <h4>I am very motivated and passionate towards my work and projects because i want to build one Battery Charging App which excites me more to do in future</h4>
 
