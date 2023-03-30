@@ -69,8 +69,11 @@ alt="😎"/>
 <p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhishekkhanna2710&&show_icons=true&theme=tokyonight" alt="abhishekkhanna2710" /></p>
 
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p>
-<!-- https://github-readme-stats.vercel.app/api?username=[your username] -->
+
 <p><img align="center" width="90%"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abhishek" /></p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkhanna2710&&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/abhishekkhanna2710/github-readme-stats) 
+<p><img align="center" width="90%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkhanna2710&hide_progress=true" alt="Abhishek" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkhanna2710&hide_progress=true)](https://github.com/abhishekkhanna2710/github-readme-stats) 
