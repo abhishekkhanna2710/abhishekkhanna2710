@@ -71,4 +71,6 @@ alt="😎"/>
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p>
 
 <p><img align="center" width="90%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abhishek" /></p>   
+src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abhishek" /></p> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkhanna2710&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) 
