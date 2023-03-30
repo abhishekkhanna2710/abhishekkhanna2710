@@ -64,7 +64,9 @@ alt="😎"/>
 <img align="left" src="https://skillicons.dev/icons?i=html,css,js,java,react,bootstrap,nodejs,express,git,github,vscode" />
 
 🛠 Current Stats:
-<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p>
+
+<!-- <p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p> -->
+<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=dark" alt="abhishekkhanna2710" /></p>
 
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekkhanna2710&show_icons=true&locale=en&theme=tokyonight" alt="abhishekkhanna2710" /></p>
 
