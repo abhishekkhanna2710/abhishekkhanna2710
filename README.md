@@ -28,7 +28,7 @@ alt="😎"/>
 - ❓ How to reach me **abhikhanna2710@gmail.com**
 <!--  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=450px alt="3d img"/> -->
 
-- 💼 My Portfolio https://abhishekkhanna.netlify.app/  
+- 💼 My Portfolio https://abhishekkhanna.netlify.app/   
 
 - 📄 Resume: [Resume](https://drive.google.com/file/d/1shXU-IH-X5Ij_D2QuOudpzm1j3DV6w3R/view?usp=share_link)
 
