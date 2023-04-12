@@ -23,7 +23,7 @@ alt="😎"/>
 
 - 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/)  -->
 
-- 👨‍💻 Individual Project : 
+- 👨‍💻 Individual Project : </br> </br> 
   🔸 [Properto (Dashboard)](https://propertodashboard.netlify.app/) </br>
 
 - ❓ How to reach me **abhikhanna2710@gmail.com**
