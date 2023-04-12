@@ -25,6 +25,7 @@ alt="😎"/>
 
 - 👨‍💻 Individual Project : </br> </br> 
   🔸 [Properto (Dashboard)](https://propertodashboard.netlify.app/) </br>
+  🔸 [Zoom Car ](https://zoomcarr.netlify.app/) </br>
   🔸 [BMI Calculator](https://bmicalcultor.netlify.app/)
 
 - ❓ How to reach me **abhikhanna2710@gmail.com**
