@@ -22,7 +22,7 @@ alt="😎"/>
 <!-- - 🤝 Group Project  [BewKoof-Project - Clone](https://bewkoofclone.netlify.app/)
 
 - 🤝 Group Project  [Book-My-Show - Clone](https://bookmyshowclone-9.netlify.app/)  -->
-
+ 
 - 👨‍💻 Individual Project : </br> </br> 
   🔸 [Properto (Dashboard)](https://propertodashboard.netlify.app/) </br>
   🔸 [Zoom Car ](https://zoomcarr.netlify.app/) </br>
