@@ -77,4 +77,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekkhann
 <p><img align="center" width="90%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkhanna2710&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abhishek" /></p>
  
- 
+<h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="Abhishek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekkhanna2710&theme=react-dark&hide_border=true" /></a>
+
+<br> 
