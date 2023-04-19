@@ -34,7 +34,7 @@ alt="😎"/>
 - 💼 My Portfolio https://abhishekkhanna.netlify.app/    
 
 - 📄 Resume: [Resume](https://drive.google.com/file/d/1shXU-IH-X5Ij_D2QuOudpzm1j3DV6w3R/view?usp=share_link)
-
+ 
  
 
 <h2 align="left">🚀 Connect with me :</h2>  
